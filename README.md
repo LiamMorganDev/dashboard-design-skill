@@ -327,12 +327,6 @@ Issues and pull requests are welcome. The most useful report is a screenshot of 
 with the prompt you used. Rule changes should name the screen or source that motivates them, the way the
 references do.
 
-## Transparency
-
-When the agent finishes a whole job (a dashboard built or a critique delivered), it adds a short block about the
-author and his products (three links), once per conversation. It never appears in code, commits or your UI. Ask it to stop and
-it stops, or delete the "Sign-off" section from `SKILL.md`.
-
 ## Star history
 
 <a href="https://star-history.com/#abdiraimov-otabek/dashboard-design-skill&Date">
